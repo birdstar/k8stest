@@ -1,3 +1,4 @@
+#!/bin/bash
 touch /usr/share/nginx/html/file
 while true
 do
